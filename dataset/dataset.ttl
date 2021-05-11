@@ -1,0 +1,552 @@
+@prefix data: <https://github.com/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+data:1 rdf:type data:code;
+        data:id                 "135101";
+        data:title              "Android StepsView";
+        data:language           "Java";
+        data:framework          "Android Native";
+        data:date               "Jul 1, 2015";
+        data:description        "A simple progress steps view on Android";
+        data:author             "Ahmad Hasyim";
+        data:url                "https://github.com/lordhasyim/semacam-kumpulan-repo";
+        .
+
+data:2 rdf:type data:code;
+        data:id                 "135102";
+        data:title              "WhatsApp Profile Collapsing Toolbar";
+        data:language           "Java";
+        data:framework          "Android Native";
+        data:date               "Mei 15, 2015";
+        data:description        "An Android custom animation view that looks like WhastApp Profile screen style";
+        data:author             "Anton Nurdin Tuhadiansyah";
+        data:url                "https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar";
+        .
+
+data:3 rdf:type data:code;
+        data:id                 "135103";
+        data:title              "Ziliun React Native";
+        data:language           "Java";
+        data:framework          "React Native";
+        data:date               "Jan 2, 2016";
+        data:description        "Ziliun article reader android app built with React Native";
+        data:author             "Sonny Lazuardi";
+        data:url                "https://github.com/sonnylazuardi/ziliun-react-native";
+        .
+
+data:4 rdf:type data:code;
+        data:id                 "135104";
+        data:title              "React Tomato Timer";
+        data:language           "JavaScript, HTML, CSS";
+        data:framework          "ReactJS";
+        data:date               "Jan 2, 2016";
+        data:description        "A simple timer for a more productive way to work and study built with ReactJS";
+        data:author             "Sonny Lazuardi";
+        data:url                "https://github.com/sonnylazuardi/react-tomato-timer";
+        .
+
+data:5 rdf:type data:code;
+        data:id                 "135105";
+        data:title              "Compressor";
+        data:language           "Kotlin";
+        data:framework          "Android Native";
+        data:date               "Mar 22, 2021";
+        data:description        "An android image compression library";
+        data:author             "Zetra";
+        data:url                "https://github.com/zetbaitsu/Compressor";
+        .
+
+data:6 rdf:type data:code;
+        data:id                 "135106";
+        data:title              "Rx Downloader";
+        data:language           "Java";
+        data:framework          "Android Native";
+        data:date               "Jan 23, 2018";
+        data:description        "An Rx wrapper for Download Manager in Android";
+        data:author             "Esa Firman";
+        data:url                "https://github.com/esafirm/RxDownloader";
+        .
+
+data:7 rdf:type data:code;
+        data:id                 "135107";
+        data:title              "Image Effect Filter";
+        data:language           "Java";
+        data:framework          "Android Native";
+        data:date               "Sep 3, 2016";
+        data:description        "Android image filter processing sample using layer drawable and effect factory android";
+        data:author             "M. Nafian Wildana";
+        data:url                "https://github.com/mnafian/ImageEffectFilter";
+        .
+
+data:8 rdf:type data:code;
+        data:id                 "135108";
+        data:title              "React Native Credit Card";
+        data:language           "JavaScript";
+        data:framework          "React Native";
+        data:date               "Feb 21, 2019";
+        data:description        "React native credit card display component";
+        data:author             "Sonny Lazuardi";
+        data:url                "https://github.com/sonnylazuardi/react-native-credit-card";
+        .
+
+data:9 rdf:type data:code;
+        data:id                 "135109";
+        data:title              "Android Color Picker";
+        data:language           "Java";
+        data:framework          "Android Native";
+        data:date               "Apr 26, 2018";
+        data:description        "To customize the color of some background, text, or maybe for a painting application";
+        data:author             "Randy Sugianto";
+        data:url                "https://github.com/yukuku/ambilwarna";
+        .
+
+data:10 rdf:type data:code;
+        data:id                 "135110";
+        data:title              "Image Picker";
+        data:language           "Kotlin";
+        data:framework          "Android Native";
+        data:date               "Apr 24, 2021";
+        data:description        "A configureable library to select image from gallery and camera without the hassle";
+        data:author             "Esa Firman";
+        data:url                "https://github.com/esafirm/android-image-picker";
+        .
+
+data:11 rdf:type data:code;
+        data:id                 "135111";
+        data:title              "Cafe Bar";
+        data:language           "Java";
+        data:framework          "Android Native";
+        data:date               "Nov 24, 2017";
+        data:description        "An upgraded Snackbar for Android that provides more options and easy to use";
+        data:author             "Dani Mahardhika";
+        data:url                "https://github.com/danimahardhika/cafebar";
+        .
+
+data:12 rdf:type data:code;
+        data:id                 "135112";
+        data:title              "Candy Bar";
+        data:language           "Java, HTML";
+        data:framework          "Android Native";
+        data:date               "Feb 5, 2018";
+        data:description        "Android icon pack dashboard library";
+        data:author             "Dani Mahardhika";
+        data:url                "https://github.com/danimahardhika/candybar-library";
+        .
+
+data:13 rdf:type data:code;
+        data:id                 "135113";
+        data:title              "Wallpaper Board";
+        data:language           "Java, HTML";
+        data:framework          "Android Native";
+        data:date               "Jan 11, 2018";
+        data:description        "Android wallpaper dashboard library";
+        data:author             "Dani Mahardhika";
+        data:url                "https://github.com/danimahardhika/wallpaperboard";
+        .
+
+data:14 rdf:type data:code;
+        data:id                 "135114";
+        data:title              "Subtitle Collapsing Toolbar Layout";
+        data:language           "Kotlin";
+        data:framework          "Android Native";
+        data:date               "Apr 28, 2020";
+        data:description        "Standard CollapsingToolbarLayout with subtitle support";
+        data:author             "Hendra Anggrian";
+        data:url                "https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle";
+        .
+
+data:15 rdf:type data:code;
+        data:id                 "135115";
+        data:title              "Elybin CMS";
+        data:language           "PHP, JavaScript, HTML, CSS";
+        data:framework          "CMS";
+        data:date               "Nov 17, 2015";
+        data:description        "Free content management system that focuses on usability, speed and simplicity";
+        data:author             "Khakim Hudaya";
+        data:url                "https://github.com/elybin/ElybinCMS";
+        .
+
+data:16 rdf:type data:code;
+        data:id                 "135116";
+        data:title              "Lentera";
+        data:language           "PHP, CSS";
+        data:framework          "CMS";
+        data:date               "Feb 26, 2015";
+        data:description        "Learning Management from Nusantara";
+        data:author             "Laravel Indonesia";
+        data:url                "https://github.com/laravel-indonesia/lentera";
+        .
+
+data:17 rdf:type data:code;
+        data:id                 "135117";
+        data:title              "Pusaka CMS";
+        data:language           "PHP, HTML, CSS";
+        data:framework          "CMS";
+        data:date               "Aug 17, 2017";
+        data:description        "File-based CMS build with CodeIgniter Framework";
+        data:author             "Code Politan";
+        data:url                "https://github.com/codepolitanlab/pusakacms";
+        .
+
+data:18 rdf:type data:code;
+        data:id                 "135118";
+        data:title              "Fiyo CMS";
+        data:language           "PHP, JavaScript, HTML, CSS";
+        data:framework          "CMS";
+        data:date               "Feb 15, 2016";
+        data:description        "CMS Open Source with Easy Design, Fast Load, and SEO Friendly";
+        data:author             "FiyoCMS";
+        data:url                "https://github.com/FiyoCMS/FiyoCMS";
+        .
+
+data:19 rdf:type data:code;
+        data:id                 "135119";
+        data:title              "PopojiCMS";
+        data:language           "PHP, JavaScript, HTML, CSS";
+        data:framework          "CMS";
+        data:date               "Oct 3, 2020";
+        data:description        "Create Your Own Web Taste";
+        data:author             "PopojiCMS";
+        data:url                "https://github.com/PopojiCMS/PopojiCMS";
+        .
+
+data:20 rdf:type data:code;
+        data:id                 "135120";
+        data:title              "Unzipall";
+        data:language           "Go";
+        data:framework          "Go Native";
+        data:date               "Oct 31, 2016";
+        data:description        "Unzip all zip files in src directory to dst directory";
+        data:author             "Akeda Bagus";
+        data:url                "https://github.com/gedex/unzipall";
+        .
+
+data:21 rdf:type data:code;
+        data:id                 "135121";
+        data:title              "Inflector";
+        data:language           "Go";
+        data:framework          "Go Native";
+        data:date               "Mar 8, 2017";
+        data:description        "Inflector pluralizes and singularizes English nouns";
+        data:author             "Akeda Bagus";
+        data:url                "https://github.com/gedex/inflector";
+        .
+
+data:22 rdf:type data:code;
+        data:id                 "135122";
+        data:title              "Snowboard";
+        data:language           "Go";
+        data:framework          "Go Native";
+        data:date               "Jan 6, 2021";
+        data:description        "API blueprint parser and renderer";
+        data:author             "Bukalapak";
+        data:url                "https://github.com/bukalapak/snowboard";
+        .
+
+data:23 rdf:type data:code;
+        data:id                 "135123";
+        data:title              "jQuery Awesome Sosmed Share Button";
+        data:language           "JavaScript";
+        data:framework          "JavaScript Native";
+        data:date               "Jul 28, 2017";
+        data:description        "Awesome Social Media Share Button With Share Count";
+        data:author             "Ican Bachors";
+        data:url                "https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button";
+        .
+
+data:24 rdf:type data:code;
+        data:id                 "135124";
+        data:title              "Esprima";
+        data:language           "JavaScript";
+        data:framework          "JavaScript Native";
+        data:date               "Mei 8, 2021";
+        data:description        "ECMAScript parsing infrastructure for multipurpose analysis";
+        data:author             "jQuery";
+        data:url                "https://github.com/jquery/esprima";
+        .
+
+data:25 rdf:type data:code;
+        data:id                 "135125";
+        data:title              "Phunt";
+        data:language           "JavaScript";
+        data:framework          "JavaScript Native";
+        data:date               "Apr 27, 2020";
+        data:description        "Product Hunt Command Line Interface";
+        data:author             "Wahyu Kristianto";
+        data:url                "https://github.com/Kristories/phunt";
+        .
+
+data:26 rdf:type data:code;
+        data:id                 "135126";
+        data:title              "React Simple PWA";
+        data:language           "JavaScript";
+        data:framework          "JavaScript Native";
+        data:date               "Sep 16, 2016";
+        data:description        "Simple Progressive Web App Built with ReactJS";
+        data:author             "Naufal Rabbani";
+        data:url                "https://github.com/BosNaufal/react-simple-pwa";
+        .
+
+data:27 rdf:type data:code;
+        data:id                 "135127";
+        data:title              "Angular Starter";
+        data:language           "JavaScript, Typescript, HTML, CSS";
+        data:framework          "Angular";
+        data:date               "Sep 25, 2017";
+        data:description        "Gulp Angular Starter using TypeScript";
+        data:author             "Antony Budianto";
+        data:url                "https://github.com/antonybudianto/angular-starter";
+        .
+
+data:28 rdf:type data:code;
+        data:id                 "135128";
+        data:title              "Angular Webpack Starter";
+        data:language           "JavaScript, Typescript, HTML, CSS";
+        data:framework          "Angular";
+        data:date               "Jul 12, 2017";
+        data:description        "Angular Webpack Starter with AoT compilation, Lazy-loading, and Hot Module Reload";
+        data:author             "Antony Budianto";
+        data:url                "https://github.com/antonybudianto/angular-webpack-starter";
+        .
+
+data:29 rdf:type data:code;
+        data:id                 "135129";
+        data:title              "Express4 Bootstrap Starter";
+        data:language           "JavaScript, HTML, CSS";
+        data:framework          "ExpressJS";
+        data:date               "Jun 10, 2016";
+        data:description        "Lightweight Bootstrap NodeJS Apps Build Using ExpressJS 4";
+        data:author             "Hengki Sihombing";
+        data:url                "https://github.com/hengkiardo/express4-bootstrap-starter";
+        .
+
+data:30 rdf:type data:code;
+        data:id                 "135130";
+        data:title              "Vue2 Starter";
+        data:language           "Vue, JavaScript, HTML, CSS";
+        data:framework          "VueJS";
+        data:date               "Oct 26, 2017";
+        data:description        "Simple Vue 2 Starter for single page application with Vuex and Vue Router";
+        data:author             "Naufal Rabbani";
+        data:url                "https://github.com/BosNaufal/vue2-starter";
+        .
+
+data:31 rdf:type data:code;
+        data:id                 "135131";
+        data:title              "Vue2 Simplert";
+        data:language           "Vue, JavaScript, CSS";
+        data:framework          "VueJS";
+        data:date               "Apr 11, 2021";
+        data:description        "Vue 2 Simple Alert Component (SweetAlert Inspired)";
+        data:author             "Irfan Maulana";
+        data:url                "https://github.com/mazipan/vue2-simplert";
+        .
+
+data:32 rdf:type data:code;
+        data:id                 "135132";
+        data:title              "Vue Soundcloud";
+        data:language           "HTML";
+        data:framework          "VueJS";
+        data:date               "May 17, 2017";
+        data:description        "Vuejs + SoundCloud demo app, for JogjaJS 4th meet up";
+        data:author             "Mulia Nasution";
+        data:url                "https://github.com/mul14/vue-soundcloud";
+        .
+
+data:33 rdf:type data:code;
+        data:id                 "135133";
+        data:title              "Vue Autocomplete";
+        data:language           "JavaScript";
+        data:framework          "VueJS";
+        data:date               "Dec 30, 2016";
+        data:description        "Autocomplete Component for VueJS";
+        data:author             "Naufal Rabbani";
+        data:url                "https://github.com/BosNaufal/vue-autocomplete";
+        .
+
+data:34 rdf:type data:code;
+        data:id                 "135134";
+        data:title              "Vue Mini Shop";
+        data:language           "Vue, JavaScript, HTML, CSS";
+        data:framework          "VueJS";
+        data:date               "May 4, 2016";
+        data:description        "Mini Online Shop Built With VueJS";
+        data:author             "Naufal Rabbani";
+        data:url                "https://github.com/BosNaufal/vue-mini-shop";
+        .
+
+data:35 rdf:type data:code;
+        data:id                 "135135";
+        data:title              "Vue Loading Bar";
+        data:language           "JavaScript";
+        data:framework          "VueJS";
+        data:date               "Oct 22, 2016";
+        data:description        "Youtube Like Loading Bar Component for Vue.js";
+        data:author             "Naufal Rabbani";
+        data:url                "https://github.com/BosNaufal/vue-loading-bar";
+        .
+
+data:36 rdf:type data:code;
+        data:id                 "135136";
+        data:title              "PHP Bootstrap";
+        data:language           "PHP, JavaScript, CSS";
+        data:framework          "PHP Native";
+        data:date               "Apr 18, 2018";
+        data:description        "Makes it easy to work on PHP language";
+        data:author             "Harazaki Dev";
+        data:url                "https://github.com/Harazaki/PHP-BOOTSTRAP";
+        .
+
+data:37 rdf:type data:code;
+        data:id                 "135137";
+        data:title              "Simple Excel PHP";
+        data:language           "PHP, HTML";
+        data:framework          "PHP Native";
+        data:date               "Jun 7, 2018";
+        data:description        "Easily read parse convert write between Microsoft Excel XML";
+        data:author             "Faisal Salman";
+        data:url                "https://github.com/faisalman/simple-excel-php";
+        .
+
+data:38 rdf:type data:code;
+        data:id                 "135138";
+        data:title              "App Rocket";
+        data:language           "PHP, JavaScript";
+        data:framework          "Laravel";
+        data:date               "Feb 16, 2016";
+        data:description        "Example CRUD application with Laravel 5.2";
+        data:author             "Rahmat Awaludin";
+        data:url                "https://github.com/rawaludin/approcket-preproject";
+        .
+
+data:39 rdf:type data:code;
+        data:id                 "135139";
+        data:title              "laravel-simple Uploader";
+        data:language           "PHP";
+        data:framework          "Laravel";
+        data:date               "Nov 10, 2018";
+        data:description        "Simple file uploader for Laravel 5";
+        data:author             "Roni Yusuf Manalu";
+        data:url                "https://github.com/rymanalu/laravel-simple-uploader";
+        .
+
+data:40 rdf:type data:code;
+        data:id                 "135140";
+        data:title              "Factory Generator";
+        data:language           "PHP";
+        data:framework          "Laravel";
+        data:date               "Sep 3, 2017";
+        data:description        "Laravel 5 Model Factory Generator";
+        data:author             "Roni Yusuf Manalu";
+        data:url                "https://github.com/rymanalu/factory-generator";
+        .
+
+data:41 rdf:type data:code;
+        data:id                 "135141";
+        data:title              "Semantic Form";
+        data:language           "PHP";
+        data:framework          "Laravel";
+        data:date               "Feb 21, 2020";
+        data:description        "Semantic-UI form helper";
+        data:author             "Laravolt";
+        data:url                "https://github.com/laravolt/semantic-form";
+        .
+
+data:42 rdf:type data:code;
+        data:id                 "135142";
+        data:title              "WordGraph";
+        data:language           "Python";
+        data:framework          "Python Native";
+        data:date               "Aug 17, 2013";
+        data:description        "Word Graph utility built with NLTK and Text Blob";
+        data:author             "Batista Harahap";
+        data:url                "https://github.com/tistaharahap/WordGraph";
+        .
+
+data:43 rdf:type data:code;
+        data:id                 "135143";
+        data:title              "Hand Signals Recognition";
+        data:language           "Python";
+        data:framework          "Pytho n Native";
+        data:date               "Apr 20, 2020";
+        data:description        "Using Convolutional Neural Network implemented in TensorFlow";
+        data:author             "Bayu Aldi Yansyah";
+        data:url                "https://github.com/pyk/hsr";
+        .
+
+data:44 rdf:type data:code;
+        data:id                 "135144";
+        data:title              "Sastrawi";
+        data:language           "PHP";
+        data:framework          "PHP Native";
+        data:date               "Feb 21, 2017";
+        data:description        "High quality stemmer library for Indonesian Language";
+        data:author             "Sastrawi";
+        data:url                "https://github.com/sastrawi/sastrawi";
+        .
+
+data:45 rdf:type data:code;
+        data:id                 "135145";
+        data:title              "Python Pentesting";
+        data:language           "Python, JavaScript, HTML, CSS";
+        data:framework          "Python Native";
+        data:date               "Nov 4, 2019";
+        data:description        "Python Pentesting Tool";
+        data:author             "Jose Manuel Ortega";
+        data:url                "https://github.com/jmortega/python-pentesting";
+        .
+
+data:46 rdf:type data:code;
+        data:id                 "135146";
+        data:title              "mozdownload";
+        data:language           "Python";
+        data:framework          "Python  Native";
+        data:date               "Dec 27, 2020";
+        data:description        "Easy to use download tool and API for different types of Firefox builds";
+        data:author             "Mozilla";
+        data:url                "https://github.com/mozilla/mozdownload";
+        .
+
+data:47 rdf:type data:code;
+        data:id                 "135147";
+        data:title              "Quran Android";
+        data:language           "Kotlin";
+        data:framework          "Android Native";
+        data:date               "Apr 10, 2021";
+        data:description        "A Quran reading application for android";
+        data:author             "Quran.com";
+        data:url                "https://github.com/quran/quran_android";
+        .
+
+data:48 rdf:type data:code;
+        data:id                 "135148";
+        data:title              "Android Demos";
+        data:language           "Kotlin, HTML";
+        data:framework          "Android Native";
+        data:date               "June 16, 2019";
+        data:description        "Examples of Android applications";
+        data:author             "Novoda";
+        data:url                "https://github.com/novoda/android-demos";
+        .
+
+data:49 rdf:type data:code;
+        data:id                 "135149";
+        data:title              "Scissors";
+        data:language           "Java";
+        data:framework          "Android Native";
+        data:date               "Nov 22, 2017";
+        data:description        "Android image cropping library";
+        data:author             "Lyft";
+        data:url                "https://github.com/lyft/scissors";
+        .
+
+data:50 rdf:type data:code;
+        data:id                 "135150";
+        data:title              "Image Blurring";
+        data:language           "Java, C";
+        data:framework          "Android Native";
+        data:date               "Feb 21, 2017";
+        data:description        "Android blurring image(bitmap) by java and jni";
+        data:author             "Qiujuer";
+        data:url                "https://github.com/qiujuer/ImageBlurring";
+        .
